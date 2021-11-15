@@ -1,0 +1,24 @@
+{
+  "strategy_name": "NigerianPrince",
+  "params": {
+    "buy": {},
+    "sell": {},
+    "roi": {
+      "0": 0.04830230143884548,
+      "34": 0.02443546902491616,
+      "75": 0.013933562445267594,
+      "110": 0
+    },
+    "stoploss": {
+      "stoploss": -0.006188731210234097
+    },
+    "trailing": {
+      "trailing_stop": true,
+      "trailing_stop_positive": 0.015308257314766528,
+      "trailing_stop_positive_offset": 0.04511956273379174,
+      "trailing_only_offset_is_reached": true
+    }
+  },
+  "ft_stratparam_v": 1,
+  "export_time": "2021-07-16 20:54:46.611431+00:00"
+}
